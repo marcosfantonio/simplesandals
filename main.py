@@ -11,7 +11,7 @@ import background_sprites
 pygame.init()
 game_end = False
 running = True
-arcade_font = pygame.font.Font("../font/FONT.TTF", 48)
+arcade_font = pygame.font.Font("font/FONT.TTF", 48)
 
 player_one_name = input("NAME OF THE FIRST PLAYER : ")
 player_two_name = input("NAME OF THE SECOND PLAYER : ")
