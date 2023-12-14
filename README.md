@@ -30,9 +30,9 @@ Ainda planejo refazer e melhorar o jogo em Java no proximo período.
 
 A simple fighting game project that i made from scratch with a friend
 for the first period of the ADS course (Systems Analysis and Development) on the IFPB (Federal Institute of Paraíba)
-> i did the code and he made and animated some of the sprites
+> i did the code and he made and animated some of the sprites.
 
-For the characters, we used and modified some of [Luiz Melo](https://luizmelo.itch.io)sprites
+For the characters, we used and modified some of [Luiz Melo](https://luizmelo.itch.io) sprites.
 
 I Still plan to remake and upgrade the game using Java in the next period.
 
