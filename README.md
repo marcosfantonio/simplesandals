@@ -10,13 +10,21 @@ Ainda planejo refazer e melhorar o jogo em Java no proximo período.
 ### Controles:
 
 **Enter** - Iniciar Luta.
+
 **Z** - Ataque Leve *(pode critar)* - **Jogador 1**.
+
 **X** - Ataque Pesado - **Jogador 1**.
+
 **C** - Bloqueio - **Jogador 1**.
+
 **I** - Ataque Leve *(pode critar)* - **Jogador 2**.
+
 **O** - Ataque Pesado - **Jogador **2.
+
 **P** - Bloqueio - **Jogador 2**.
+
 **Espaço** - Confirmar Ação *(No turno de ambos)*.
+
 
 # English
 
