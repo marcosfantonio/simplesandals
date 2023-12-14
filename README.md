@@ -20,7 +20,7 @@ Ainda planejo refazer e melhorar o jogo em Java no proximo período.
 
 **I** - Ataque Leve *(pode critar)* - **Jogador 2**.
 
-**O** - Ataque Pesado - **Jogador **2.
+**O** - Ataque Pesado - **Jogador2**.
 
 **P** - Bloqueio - **Jogador 2**.
 
