@@ -4,6 +4,7 @@ Um simples projeto de jogo de luta que fiz do 0 juntamente com um amigo para apr
 > cuidei da programção e ele da animação e criação de alguns dos sprites.
 
 Para os personagens, usamos e refizemos alguns dos sprites do [Luiz Melo](https://luizmelo.itch.io).
+Todo o resto foi feito por autoria nossa.
 
 Ainda planejo refazer e melhorar o jogo em Java no proximo período.
 
@@ -33,6 +34,7 @@ for the first period of the ADS course (Systems Analysis and Development) on the
 > i did the code and he made and animated some of the sprites.
 
 For the characters, we used and modified some of [Luiz Melo](https://luizmelo.itch.io) sprites.
+All the other sprites were made by us.
 
 I Still plan to remake and upgrade the game using Java in the next period.
 
